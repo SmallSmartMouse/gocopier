@@ -1,0 +1,2 @@
+# gocopier
+show
